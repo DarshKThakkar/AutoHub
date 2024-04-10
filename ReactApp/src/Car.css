@@ -1,0 +1,46 @@
+.form-check-label
+{
+    font-size: 14px;
+}
+
+.check:checked{
+    background-color: #a1a1a1;
+    border: 1px solid #a1a1a1; /* Change this to your desired color */
+  }
+
+
+.white:checked
+{
+    background-color: whitesmoke;
+    border: 2px solid #313131;
+}
+
+.form-check-input
+{
+    border: 1px solid #8a8a8a;
+}
+
+.button
+{
+    width: 40%;
+    margin: 30px 7px 0;
+    font-size: small;
+    padding: 12px 0;
+    line-height: 20%;
+
+}
+
+.card   
+{
+    height: 300px;
+}
+
+.carBox
+{
+    transition: 0.4s;
+}
+
+.carBox:hover
+{
+    transform: scale(1.04);
+}
